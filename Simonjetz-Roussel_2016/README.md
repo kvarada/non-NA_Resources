@@ -1,0 +1,1 @@
+The annotated shell noun data (as described in [Simonjetz & Roussel (2016)](https://www.linguistics.rub.de/konvens16/pub/34_konvensproc.pdf)) can be found in this repository: [https://github.com/ajroussel/nna-datasets](https://github.com/ajroussel/nna-datasets)
